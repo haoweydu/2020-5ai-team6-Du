@@ -1,3 +1,3 @@
 # Group-6
-member: Du Haowei, Sansone Robert, Gilt Andres.
+members: Du Haowei, Sansone Robert, Gilt Andres.
 
