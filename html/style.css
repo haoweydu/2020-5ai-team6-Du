@@ -1,0 +1,36 @@
+#menu ul {
+     /* Dimensioni della barra del menu */
+    padding:7px 50px;
+    background:#1d2d4d;
+    margin:0 auto;
+    display:block;
+    list-style-type:none; /* Stile della lista */
+    align-self: auto;
+}
+#menu li {
+    display:inline; 
+    padding:7px 50px;
+    margin: 0px 0px 0px 0px;
+    background:#1d2d4d;
+}
+#menu a {
+    color:#fff; /* Colore del testo */
+    text-align:center; /* Testo allineato al centro */
+    text-decoration:none; /* Nessuna decorazione */
+    /*border-right:1px solid #ffffff; */
+}
+#menu li:hover {
+    background-color: #2e4678;
+}
+body{
+    background-color: #F5F5DC;
+}
+#logo{
+    height: 100px;
+}
+#container {
+    background-color:#fff;
+    padding:7px 50px;
+    margin: 0px 0px 0px 0px;
+    display: block;
+}
