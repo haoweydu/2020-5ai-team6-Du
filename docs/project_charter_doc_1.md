@@ -1,9 +1,15 @@
-# Project Title: _Arietta_
-### Start Date: 24/20/2019
-### Project Manager:
-### Project Sponsor:
-### Customer: ITIS.G.Marconi
-### Users: ITIS.G.Marconi Administration
+# Project Title: 
+_Arietta_
+### Start Date: 
+24/20/2019
+### Project Manager: 
+Haowei Du
+### Project Sponsor: 
+Prof.Cobello
+### Customer: 
+ITIS.G.Marconi
+### Users: 
+ITIS.G.Marconi Administration
 ### Stakeholders and Expectations: 
 Team: 
 ### Purpose:
