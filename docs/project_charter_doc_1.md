@@ -5,8 +5,8 @@ _Arietta_
 ### Project Manager: 
 Haowei Du
 ### Project Sponsor: 
-Prof.Cobello
-Prof. Nicola Drago
+Prof.Cobello  
+Prof. Nicola Drago  
 ### Customer: 
 ITIS.G.Marconi
 ### Users: 
@@ -24,14 +24,16 @@ Since the school already had all the materials needed (Arduino, modules and webs
 ### Project Priorities and degrees of freedom: 
 The documentation and the project must all be completed within their respective deadlines.
 ### Approach: 
+During the week we work three hours on the documentation and two hours on the project.
+We are free to organize our work in the way we prefer.
 ### Constraints:
 ### Assumptions:
 ### Success Criteria:
 ### Scope: 
 The school administration must be able to see the statistics of the measurements displayed by graphs on the website.
 ### Risks and obstacles to success:
-We lack experience in using Arduino and creating complex interconnected systems.
-The modules for Arduino could also be defective or not suited for our tasks.
+We lack experience in using Arduino and creating complex interconnected systems, also
+the modules for Arduino could be defective or not suited for our tasks.
 
 
 
