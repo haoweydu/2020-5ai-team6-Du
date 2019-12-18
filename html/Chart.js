@@ -9,17 +9,7 @@ google.charts.setOnLoadCallback(drawChart);
 // draws it.
 function drawChart() {
 
-    // Create the data table.
-    var data = new google.visualization.DataTable();
-    data.addColumn('string', 'Topping');
-    data.addColumn('number', 'Slices');
-    data.addRows([
-        ['Mushrooms', 3],
-        ['Onions', 1],
-        ['Olives', 1],
-        ['Zucchini', 1],
-        ['Pepperoni', 2]
-    ]);
+
     var data1 = google.visualization.arrayToDataTable([
         ['Year', 'Sales', 'Expenses'],
         ['2013', 1000, 400],
@@ -28,21 +18,26 @@ function drawChart() {
         ['2016', 1030, 540]
     ]);
     var options1 = {
-        title: 'Company Performance',
+        title: 'Company Perfce',
         hAxis: { title: 'Year', titleTextStyle: { color: '#333' } },
         vAxis: { minValue: 0 }
     };
     var chart1 = new google.visualization.AreaChart(document.getElementById('chart_div1'));
     chart1.draw(data1, options1);
-
-    // Set chart options
+    // Create the data table.
+    var data = google.visualization.arrayToDataTable([
+        ['Task', 'Hours per Day'],
+        ['periodo silenzioso', 11],
+        ['periodo di media', 5],
+        ['periodo rumoroso', 2]
+    ]);
     var options = {
-        'title': 'How Much Pizza I Ate Last Night'
+        title: 'Confronto livelli rumore',
+        slices: [{color: "#006400"},{color: '#FFD300'},{color: '#FF0000'}]
     };
 
     // Instantiate and draw our chart, passing in some options.
     var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
     chart.draw(data, options);
     
-
 }
