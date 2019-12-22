@@ -1,3 +1,3 @@
 _____________________________________________________________
 
-<center># Software Requirements Specification</center>
+#Software Requirements Specification
