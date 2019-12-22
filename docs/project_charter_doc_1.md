@@ -18,6 +18,7 @@ The school needs a way to keep track of the temperature, the humidity and the so
 ### Goals and Objectives: 
 Our goal is to create a system capable of measuring the temperature, the humidity and the sound intensity in a room. The data will then be stored in a database and used by a website to display the informations to the school administration.
 ### Schedule Information: 
+During our first two months of work we have been focused on dividing the tasks, learning new tool such as Arduino and creating the databases and the website pages.
 ### Financial Information:
 Since the school already had all the materials needed we did not have to invest money in the project.
 ### Project Priorities and degrees of freedom: 
@@ -30,6 +31,7 @@ Before we can get our system up and running it must be reviewed by the teachers 
 ### Assumptions: 
 -The Arduino will have access to the local network of the school.  
 -The database will be stored on a machine inside the school.  
+-The website will be hosted by the school.
 -The website will be using a domain given from the school.
 ### Success Criteria:
 The project will be a success if we manage to complete the documentation and the project within the limit without any problem.
