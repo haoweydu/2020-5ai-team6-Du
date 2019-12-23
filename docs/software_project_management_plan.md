@@ -62,3 +62,16 @@ Every member of the team work on different tasks.
 On the 19/12/2019 we showed to our professors and classmates a presentation about the project and the beta of our product.
 Currently we are having problems using the audio sensor to measure the noise intensity from the surroundings but we hope to fix this problem and have the final version of the product within by the end of the period.
 
+# CONTROL PLAN
+## Configuration Management Plan
+All project work products will be stored inside a GitHub repository accessible to all the members of the team and the teacher.
+Every time a file is changed the author must make a commit and write a short description for it.
+The documentation of the project must also be written and stored in a folder called "docs" inside the repo.
+
+# SUPPORTING PROCESS PLANS
+## Risk Management Plan
+# Risks and Problems:
+1. Schedule/Time Delivery: to mitigate this risk we are working on the project in our spare time.
+2. Tools not working or not suited: Currently we are having problems with our audio sensor since the measurements of the audio intensity are not in decibel and are overall innacurate.
+3. Late arrival of the tools needed: we had to wait some time before we could get an Arduino and the modules needed so we had to wait a few weeks before we could start to work on the project.
+4. Learning curve for new tools and technologies longer than expected: it's the first time we work on a serious project and we are not familiar with all the tools so during our first weeks we spent the time studying them.
