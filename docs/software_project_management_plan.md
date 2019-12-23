@@ -36,15 +36,20 @@ ___
 
 # STARTUP PLAN
 ## Team Organization
-Project Manager: Du Haowei
-Developers: Du Haowei, Gilt Andres, Sansone Robert.
+Project Manager: Du Haowei  
+Developers: Du Haowei, Gilt Andres, Sansone Robert.    
 
-## Team Organization
+Du Haowei: Website pages.    
+Gilt Andres: Arduino code.    
+Sansone Robert: Databases.  
+
+
+## Project Communications
 We discuss the status of the project every week before resuming our tasks.
 
 ## Technical Process
-During the week we work three hours on the documentation and two hours on the project.
-
+During the week we work three hours on the documentation and two hours on the project. 
+Every member of the team work on different tasks.  
 
 ## Tools
 1. Arduino (Fishino Mega) and Arduino IDE.
@@ -52,4 +57,8 @@ During the week we work three hours on the documentation and two hours on the pr
 3. Temperature and Humidity Sensor, Audio Sensor
 4. HTML, CSS, PHP, Google Charts and SQL.
 
+# WORK PLAN
+## Release Plan
+On the 19/12/2019 we showed to our professors and classmates a presentation about the project and the beta of our product.
+Currently we are having problems using the audio sensor to measure the noise intensity from the surroundings but we hope to fix this problem and have the final version of the product within by the end of the period.
 
