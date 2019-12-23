@@ -34,7 +34,7 @@ Before we can get our system up and running it must be reviewed by the teachers 
 -The website will be hosted by the school.
 -The website will be using a domain given from the school.
 ### Success Criteria:
-The project will be a success if we manage to complete the documentation and the project within the limit without any problem.
+The project will be a success if we manage to complete the documentation and the product within the limit without any problem.
 ### Scope: 
 The school administration must be able to see the statistics of the measurements displayed by graphs on the website.
 ### Risks and obstacles to success:
