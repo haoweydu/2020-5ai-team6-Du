@@ -1,7 +1,7 @@
 # OVERVIEW 
 ## Purpose and Scope
 Our team is interested in realizing a system that the ITIS G.Marconi' s administration will use to keep track of data regarding the temperature, the humidity and the noise intensity of the classrooms.
-The users will access the stats regarding the data throgh some graphs displayed on the official website of the project.
+The users will access the stats relating the data through some graphs displayed on the official website of the project.
 
 ## Goals and Objectives
 The overall objective is to give the school an easy way to keep track of the temperature, humidity and noise intensity.
@@ -15,7 +15,7 @@ Project objectives:
 3. Create the website (the interface for the users) on which the stats will be displayed.
 
 ## Project Deliverables
-At the end of the period we will deliver all the stuff that is contained into our repository to the school: the Arduino code, the databases and the webpages.
+At the end of the period we will deliver all the stuff that is contained into our repository to the school: the Arduino code, the database and the webpages.
 
 ## Assumptions and Constraints
 ### Assumptions
@@ -36,12 +36,12 @@ ___
 
 # STARTUP PLAN
 ## Team Organization
-Project Manager: Du Haowei  
-Developers: Du Haowei, Gilt Andres, Sansone Robert.    
+**Project Manager**: Du Haowei  
+**Developers**: Du Haowei, Gilt Andres, Sansone Robert.    
 
-Du Haowei: Website pages.    
-Gilt Andres: Arduino code.    
-Sansone Robert: Databases.  
+**Du Haowei**: Website pages.    
+**Gilt Andres**: Arduino code.    
+**Sansone Robert**: Databases.  
 
 
 ## Project Communications
@@ -49,7 +49,7 @@ We discuss the status of the project every week before resuming our tasks.
 
 ## Technical Process
 During the week we work three hours on the documentation and two hours on the project. 
-Every member of the team work on different tasks.  
+Every member of the team works on different tasks.  
 
 ## Tools
 1. Arduino (Fishino Mega) and Arduino IDE.
@@ -57,21 +57,25 @@ Every member of the team work on different tasks.
 3. Temperature and Humidity Sensor, Audio Sensor
 4. HTML, CSS, PHP, Google Charts and SQL.
 
+___
+
 # WORK PLAN
 ## Release Plan
 On the 19/12/2019 we showed to our professors and classmates a presentation about the project and the beta of our product.
-Currently we are having problems using the audio sensor to measure the noise intensity from the surroundings but we hope to fix this problem and have the final version of the product within by the end of the period.
+Currently we are having problems using the audio sensor to measure the noise intensity from the surroundings but we hope to fix this problem and have the final version of the product by the end of the period.
+___
 
 # CONTROL PLAN
 ## Configuration Management Plan
-All project work products will be stored inside a GitHub repository accessible to all the members of the team and the teacher.
+All project work products must be stored inside a GitHub repository accessible to all the members of the team and the teacher.
 Every time a file is changed the author must make a commit and write a short description for it.
 The documentation of the project must also be written and stored in a folder called "docs" inside the repo.
+___
 
 # SUPPORTING PROCESS PLANS
 ## Risk Management Plan
-# Risks and Problems:
-1. Schedule/Time Delivery: to mitigate this risk we are working on the project in our spare time.
-2. Tools not working or not suited: Currently we are having problems with our audio sensor since the measurements of the audio intensity are not in decibel and are overall innacurate.
-3. Late arrival of the tools needed: we had to wait some time before we could get an Arduino and the modules needed so we had to wait a few weeks before we could start to work on the project.
-4. Learning curve for new tools and technologies longer than expected: it's the first time we work on a serious project and we are not familiar with all the tools so during our first weeks we spent the time studying them.
+### Risks and Problems:
+1. **Schedule/Time Delivery**: to mitigate this risk we are working on the project in our spare time.
+2. **Tools not working or not suited**: Currently we are having problems with our audio sensor since the measurements of the audio intensity are not in decibel and are overall innacurate.
+3. **Late arrival of the tools needed**: we had to wait some time before we could get an Arduino and the modules needed so we had to wait a few weeks before we could start to work on the project.
+4. **Learning curve for new tools and technologies longer than expected**: it's the first time we work on a serious project and we are not familiar with all the tools so during our first weeks we spent the time studying them.
