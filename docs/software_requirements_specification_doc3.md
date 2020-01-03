@@ -19,3 +19,25 @@ Create an informatic system that will help the school keep track of the temperat
 
 #### _1.3 SCOPE_
 We started the project for a school job, the purpose of which is to improve our skills in the informatic field and also teach us how to manage a real project by ourselves. 
+
+### _1.4 DEFINITIONS_
+Arietta – the product that is being described here; the software system specified in this document.
+
+Project – activities that will lead to the production of the Arietta project.
+
+Client – the person or organization for which this Arietta project is being built. 
+
+User – the person or persons who will actually interact with the Arietta Project.
+
+Use case – describes a goal-oriented interaction between the system and an actor. A use case may define several variants called 
+scenarios that result in different paths through the use case and usually different outcomes.
+
+Scenario – one path through a user case
+
+Actor – user or other software system that receives value from a user case.
+
+Developer – the person or organization developing the system, also sometimes called the supplier.
+
+Stakeholder – anyone with an interest in the project and its outcomes. This includes clients, customers, users, developers, testers, managers and executives.
+
+### 2 General Design Constraints
