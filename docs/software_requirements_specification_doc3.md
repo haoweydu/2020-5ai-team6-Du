@@ -11,5 +11,6 @@ Version 1
 </p>
 
 ### 1 INTRODUCTION
-  1.1 _OVERVIEW_ We started the project for a school job, the purpose of which is to improve our skills in the informatic field and also teach us how to manage a real project by ourselves.
+#### 1.1 _OVERVIEW_ 
+We started the project for a school job, the purpose of which is to improve our skills in the informatic field and also teach us how to manage a real project by ourselves.
   
