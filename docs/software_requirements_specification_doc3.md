@@ -63,3 +63,15 @@ The Arietta Project will be delivered to users as a download without documentati
 ##### _3.5.1 User Interface_
 The user interface will be eye-catching and visually appealing. The interface will be intuitive.  As a mobile app it will be streamlined and simple to use.  No training will be provided and it is expected that 95% of users will be able to use the app without any training.
 ##### _3.5.2 Software Interface_
+
+
+### 4 Functional Requirements
+#### _4.1 Required featurers_
+Description : Chech data
+Actors : Students
+  * Users open the web page
+  * They have the possibility to navigate in the site
+  * Access to different sections
+  * No login
+  * Easy to understand
+  * They can read easily the graphs and informations they need
