@@ -10,7 +10,7 @@ December 22, 2019
 Version 1
 </p>
 
-### 1 INTRODUCTION
+### 1 Introduction
 #### _1.1 OVERVIEW_ 
 The product is a system that is able to measure the temperature, the humidity and the noise intensity from a determined area and to store the data into a database.
   
@@ -60,3 +60,6 @@ Someone could connect with the arduino to steal the data and send it into anothe
 #### _3.4 Documentation and training_
 The Arietta Project will be delivered to users as a download without documentation or training.  A user guide and system documentation will be provided to project stakeholders.
 #### _3.5 External User Interface_
+##### _3.5.1 User Interface_
+The user interface will be eye-catching and visually appealing. The interface will be intuitive.  As a mobile app it will be streamlined and simple to use.  No training will be provided and it is expected that 95% of users will be able to use the app without any training.
+##### _3.5.2 Software Interface_
