@@ -67,7 +67,7 @@ The user interface will be eye-catching and visually appealing. The interface wi
 
 ### 4 Functional Requirements
 #### _4.1 Required featurers_
-Description : Chech data
+Description : Check data
 
 Actors : Students
   * Users open the web page
