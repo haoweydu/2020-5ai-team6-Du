@@ -41,3 +41,11 @@ Developer – the person or organization developing the system, also sometimes c
 Stakeholder – anyone with an interest in the project and its outcomes. This includes clients, customers, users, developers, testers, managers and executives.
 
 ### 2 General Design Constraints
+#### _2.1 Arietta project environment_
+The idea of our project is to use an Arduino and modules of temperature,humidity and sound to collect data relating to the sorrounding area and send it into a database. Then we will use an html web page to see suitable graphs
+
+#### _2.2 User Characteristics_
+The "Arietta" project is intended for the School and the students.The school will use the website to see all the graphs displaying data regard temperature, humidity and noise intensity of the classrooms.
+
+#### _2.3 Mandated Costraints_
+The project must be delivered with all its relative documentation and must be completed within the deadline.
