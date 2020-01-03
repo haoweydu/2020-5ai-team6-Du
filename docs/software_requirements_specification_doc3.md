@@ -49,3 +49,14 @@ The "Arietta" project is intended for the School and the students.The school wil
 
 #### _2.3 Mandated Costraints_
 The project must be delivered with all its relative documentation and must be completed within the deadline.
+
+### 3 Nonfunctional requirements
+#### _3.1	Operational Requirements_
+Usability : It'll be simple for everyone to read the graphs
+#### _3.2  Performance Requirements_
+Maintainability : Changes of the Arduino code won't alterate the graphs' accuracy.
+#### _3.3 Security Requirements_
+Someone could connect with the arduino to steal the data and send it into another database.
+#### _3.4 Documentation and training_
+The Arietta Project will be delivered to users as a download without documentation or training.  A user guide and system documentation will be provided to project stakeholders.
+#### _3.5 External User Interface_
