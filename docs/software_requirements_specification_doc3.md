@@ -20,7 +20,7 @@ Create an informatic system that will help the school keep track of the temperat
 #### _1.3 SCOPE_
 We started the project for a school job, the purpose of which is to improve our skills in the informatic field and also teach us how to manage a real project by ourselves. 
 
-### _1.4 DEFINITIONS_
+#### _1.4 DEFINITIONS_
 Arietta – the product that is being described here; the software system specified in this document.
 
 Project – activities that will lead to the production of the Arietta project.
