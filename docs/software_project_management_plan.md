@@ -1,4 +1,4 @@
-# OVERVIEW 
+# Software Project Management Plan
 ## Purpose and Scope
 Our team is interested in realizing a system that the ITIS G.Marconi' s administration will use to keep track of data regarding the temperature, the humidity and the noise intensity of the classrooms.
 The users will access the stats relating the data through some graphs displayed on the official website of the project.
