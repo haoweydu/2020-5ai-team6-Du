@@ -1,9 +1,9 @@
 site_name: 2020_5AI_Team6
 
 nav:
-    - 'Project charter': 'project_charter_doc_1.md'
+    - 'Project Charter': 'project_charter_doc_1.md'
     - 'Software Requirements Specification Plan': 'software_requirements_specification_doc3.md'
-    - 'Software project management plan': 'software_project_management_plan.md'
+    - 'Software Project Management Plan': 'software_project_management_plan.md'
     
     
 theme:
