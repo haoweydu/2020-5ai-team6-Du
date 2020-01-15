@@ -3,7 +3,7 @@
 
 # Software Requirements Specification
 
-##Team 6
+## Team 6
 
 
 December 22, 2019
