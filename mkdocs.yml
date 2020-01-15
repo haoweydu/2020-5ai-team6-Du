@@ -1,11 +1,10 @@
 site_name: 2020_5AI_Team6
 
 nav:
-    - 'Project charter': 'project charter.md'
-    - 'Software Requirements Specification Plan': 'software requirements specification plan.md'
-    - 'Software project management plan': 'software project management plan.md'
-    - 'Business model canvas': 'business model canvas.md'
-    - 'Project model canvas': 'project model canvas.md'
+    - 'Project charter': 'project_charter_doc_1.md'
+    - 'Software Requirements Specification Plan': 'software_requirements_specification_doc3.md'
+    - 'Software project management plan': 'software_project_management_plan.md'
+    
     
 theme:
     name: readthedocs
