@@ -1,14 +1,14 @@
 ---
 
-<h1 align = "center">
-Software Requirements Specification<br>
-For<br>
-Team 6
-</h1>
-<p align = "center">
+
+# Software Requirements Specification
+
+##Team 6
+
+
 December 22, 2019
 Version 1
-</p>
+
 
 ### 1 Introduction
 #### _1.1 OVERVIEW_ 
