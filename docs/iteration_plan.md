@@ -3,6 +3,10 @@
 14/01/2020 - 20/02/2020
 
 ### Revision History
+| Author         | Date       | Description     |
+|----------------|------------|-----------------|
+| Sansone Robert | 14/01/2020 | Initial Release |
+|                |            |                 |
 
 ### Objectives
 The purpose of this iteration is to ensure basic functionality of the HTTP session.  This includes creating modules that will control the network connection and building the proxy server.  At the end of this iteration, users should be able to:
