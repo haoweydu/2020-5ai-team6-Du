@@ -59,7 +59,7 @@ After June 2th defects that are found but not fixed immediately (less than 24 ho
 At the end of the project there shall be no unresolved defects with severity blocker or critical.
 
 ## Signatures
-![firma](./img/firma.png)
+![firma](./img/firma.jpeg)
 Haowei Du, Project Manager
 
 Arietta Acceptance Test User Survey
