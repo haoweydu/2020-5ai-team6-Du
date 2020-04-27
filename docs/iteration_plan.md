@@ -32,4 +32,4 @@ The following use cases are involved in this iteration:
 |---|---|---|---|---|
 |Database creation|Sansone|2|10/01/2020|Finished|
 |Website Design|Du, Sansone|4|Null|Started|
-|arduino coding|Gilt|10|01/04/2020|Started|
+|arduino coding|Gilt|3|Null|Started|
