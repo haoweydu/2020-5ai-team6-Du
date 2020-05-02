@@ -24,6 +24,6 @@ We will realize a website and some databases to store this data and display it i
 ### Marconi
 The school has the responsibility to guide us and give us what we need to complete the project.
 ### Our Team
-We as a group have the responsibility to deliver the complete project by its deadline.
+We as a group have the responsibility to deliver the complete project (Arduino Code, Website and Databases) by its deadline.
 
 
