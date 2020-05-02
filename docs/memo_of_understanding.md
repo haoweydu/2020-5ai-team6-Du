@@ -26,4 +26,7 @@ The school has the responsibility to guide us and give us what we need to comple
 ### Our Team
 We as a group have the responsibility to deliver the complete project (Arduino Code, Website and Databases) by its deadline.
 
+## Duration and Amendments of the MOU
+This agreement is valid until the end of the school year
+
 
