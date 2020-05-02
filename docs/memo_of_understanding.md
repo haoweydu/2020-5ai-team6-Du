@@ -21,7 +21,7 @@ The data about temperature, humidity and noise will be measured using specific s
 We will realize a website and some databases to store this data and display it in a user friendly way.
 
 ## Responsibilities
-The school has to responsibility to guide us and give us what we need to complete the project.
+The school has the responsibility to guide us and give us what we need to complete the project.
 We as a group have the responsibility to deliver the complete project by its deadline.
 
 
