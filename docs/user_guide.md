@@ -1,6 +1,6 @@
 # **Balance User Guide**
 
-### **Team 6**  -  April 12, 2020
+### **Team 6** 
 
 ##### **Members :**  Du - Gilt - Sansone
 
