@@ -14,6 +14,7 @@ nav:
     - 'Test Plan': 'test_plan.md'
     - 'Release plan': 'release_plan.md'
     - 'User Guide': 'user_guide.md'
+    - 'Architecture, Design and Coding Standards': 'Architecture, Design_and_Coding_Standards.md'
    
     
     
