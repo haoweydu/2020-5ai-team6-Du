@@ -9,7 +9,7 @@ The Arietta Project will allow the school to view data about the temperature/hum
 
 # 2 Quick Start Guide
 1. Open the website
-2. Look at the navbar, you will se a section about temperature/humidity and one about the sound intensity.
+2. Look at the navbar, you will se a section about the temperature/humidity and one about the sound intensity.
 3. Inside every section there are displayed graphs about the data.
 
 # 3 System Requirements
@@ -18,15 +18,14 @@ The website of Arietta Project does not have specific requirements.
 # 4 Main Scenarios of Use
 ### 4.1 View the temperature data
 1. Open the website
-2. Click on the temperature section displayed on the temperature
+2. Click on the temperature section displayed on the navbar
 3. You can now see all the stats regarding the temperature of the building.
 
-### 4.2 Another scenario
+### 4.2 View the sound data
 1. Open the website
-2. On the home page you can a welcome message
-3. Tap on the "Chi Siamo?" section
-4. You can now see informations about us
-5. You can also access the Marconi website from a link given in that page
+2. Click on the sound section displayed on the navbar
+3. You can now see all the stats regarding the audio volume inside the building.
+
 
 # 5 TroubleShooting
 ### 5.1 Cannot access
