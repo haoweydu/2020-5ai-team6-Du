@@ -83,4 +83,4 @@ Testing will occur at each phase of the development process. Test cases are outl
 
 Human resources: Students
 
-Material: Fishino (by fishino)- mysql (database) - google chart (data representation) - Microsoft Word (.doc) and Adobe Acrobat (.pdf) for documentation
+Material: Fishino (by fishino)- mysql (database) - google chart (data representation) - Microsoft Word (.doc) and Adobe Acrobat (.pdf) for documentation - Arduino modules
