@@ -1,6 +1,6 @@
 ## Arietta Project
 ### Iteration Plan
-14/01/2020 - 20/02/2020
+14/01/2020 - 03/05/2020
 
 ### Revision History
 | Author         | Date       | Description     |
