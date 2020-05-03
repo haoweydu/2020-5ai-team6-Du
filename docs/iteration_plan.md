@@ -9,17 +9,17 @@
 |                |            |                 |
 
 ### Objectives
-The purpose of this iteration is to ensure basic functionality of the App. 
+The purpose of this iteration is to ensure basic functionality of the system.
 
  At the end of this iteration, users should be able to:
  
-•	control data about our school.
+•	measure the data
 
-•      being able to access the website to access the database
+•access the website which displays the data
 
 At the end of this iteration, the system should be able to:
 
-•	to access the database which have input data from the arduino
+•	collect data and store it inside the database
 
 
 ### Use Cases
