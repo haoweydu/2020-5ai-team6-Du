@@ -2,14 +2,13 @@
 
 **Team Members**
 
-Gilt Andres, Sansone Robert.
+Gilt Andres, Haowei Du, Sansone Robert.
 
 # Contents
 
 1) Introduction
 2) Website
 3) Setup of Arduino/Modules
-4) System Maintenance 
 
 # 1. Introduction
 
