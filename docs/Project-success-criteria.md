@@ -1,6 +1,6 @@
-# Success Criteria for Arietta
+# Success Criteria for Arietta Project
 
-##### The Arietta will be considered a success if . . .
+##### The project will be considered a success if . . .
 ### A fully functional test system is delivered on or before June 2th.
 The system shall be delivered in a state that is ready to be used in its intended production environment for its intended purpose. 
 
