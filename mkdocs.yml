@@ -6,6 +6,16 @@ nav:
     - 'Software Project Management Plan': 'software_project_management_plan.md'
     - 'Business Model Canvas pdf': 'business_model_canvas_poster.pdf'
     - 'Project Model Canvas': 'Project_Model_Canvas.pdf'
+    - 'Memo of Understanding': 'memo_of_understanding.md'
+    - 'Test Case Specification': 'Test_Case_Specification.md'
+    - 'System Documentation': 'System_Documentation.md'
+    - 'Iteration Plan': 'iteration_plan.md'
+    - 'Project Success Criteria': 'Project-success-criteria.md'
+    - 'Test Plan': 'test_plan.md'
+    - 'Release plan': 'release_plan.md'
+    - 'User Guide': 'user_guide.md'
+   
+    
     
     
 theme:
