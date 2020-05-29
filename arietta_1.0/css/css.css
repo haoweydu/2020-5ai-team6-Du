@@ -1,0 +1,133 @@
+* {
+	box-sizing: border-box;
+}
+html {
+	position: relative;
+	min-height: 100%;
+	min-width: 100%;
+}
+body {
+	margin: 0;
+	font-family: 'Lato';
+	text-align: center;
+	background-color: white;
+	color: #16425B;
+}
+main {
+	color: #16425B;
+	font-family: 'Orbitron';
+	overflow: hidden;
+}
+header{
+	padding-top: 10%;
+	padding-bottom: 8%;
+	font-family: 'Orbitron';
+	background-color: white;
+	font-size: 1vw;
+	color: #1b4965;
+}
+ol {
+	list-style: none;
+	padding: 0;
+}
+
+div.s-monitor:hover > h2{
+	color: white;
+}
+div.s-resources:hover > h4{
+	color: white;
+}
+
+a[class^="link"] {
+	color: #1F4E6C;
+	font-size: 1.7vw;
+	font-weight: bold;
+	outline: none;
+}
+a[class^="link"]:hover {
+	color: #81C8FA;
+	outline: none;
+}
+a[class^="link"]:active {
+	font-size:1.95vw;
+	color: #b6dffc;
+	outline: none;
+}
+.cursor-default {
+	cursor: default;
+}
+.s-monitor{
+	background-color: #81C8FA;
+	padding-top: 4%;
+	padding-bottom: 4.65%;
+	text-align: center;
+	font-size: 1vw;
+}
+.s-resources {
+	background-color: #479CD0;
+	padding-top: 4%;
+	padding-bottom: 4.65%;
+	text-align: center;
+}
+.s-whois {
+	background-color: white;
+	padding-top: 1%;
+	text-align: center;
+}
+nav {
+	display: block;
+}
+#navbar {
+	overflow: hidden;
+	background-color: #16425B;
+	padding: 1.4vw 1.4vw;
+	transition: 0.7s;
+	position: flex;
+	width: 100%;
+	top: 0;
+	z-index: 99;
+}
+#navbar a {
+	color: #a3c6dc;
+	padding: 1vw;
+	text-decoration: none;
+	font-size: 2.1vw;
+	line-height: 1.8vw;
+	border-radius: 0.7vw;
+}
+.logo {
+	background-color: #5294c7;
+	color: #b6dffc;
+	font-size:2.95vw;
+}
+#navbar a:hover {
+	background-color: #387bad;
+	color: #9dd4fb;
+	font-size: 2.25vw;
+}
+#navbar a:active {
+	background-color: #5294c7;
+	color: #b6dffc;
+}
+@media screen and (max-width: 580px) {
+	#navbar {
+		padding: 1.4vw 1.4vw !important;
+	}
+	#navbar a {
+		float: none;
+		display: block;
+	}
+	#navbar a:hover {
+		background-color: #387bad;
+		color: #9dd4fb;
+		font-size: 2.15vw;
+	}
+	#navbar a:active {
+		background-color: #5294c7;
+		color: #b6dffc;
+	}
+}
+.copyright {
+	background-color: #16425B;
+	color: white;
+}

@@ -1,0 +1,298 @@
+<!-- Inizio HTML -->
+<!DOCTYPE html>
+<html lang="IT">
+<!-- Inizio Head -->
+<head>
+	<!-- Meta dati obbligatori -->
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+	<meta content="Il progetto Arietta monitora la temperatura, l'umidità e il suono." name="description">
+	<meta content="Team 6" name="author"><!-- Titolo della pagina -->
+	<title>Arietta</title><!-- Font Awesome icons (versione gratuita) -->
+	
+	<link rel="shortcut icon" href="assets/favicon.ico"/>
+
+	<script src="https://use.fontawesome.com/releases/v5.12.1/js/all.js">
+	</script><!-- Apexcharts -->
+
+	<script src="https://cdn.jsdelivr.net/npm/apexcharts">
+	</script><!-- Ajax che comunica con il database al posto di PHP in background -->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+	</script><!-- Google fonts, Orbitron & Lato -->
+	<link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet"><!-- Bootstrap Framework (CSS) -->
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet"><!-- CSS Maestro -->
+	<link href="css/css.css" rel="stylesheet"><!-- Fine Head -->
+</head><!-- Inizio Body -->
+<body id="home">
+	<!-- Inizio Navbar fissa -->
+	<nav class="navbar navbar-expand-md navbar-dark fixed-top navbar-right rounded-bottom" id="navbar">
+		<!-- Logo in Navbar -->
+		<h1 class="logo rounded cursor-default">&gt;Arietta_</h1><!-- Navbar hamburger menu icon -->
+		 <button aria-controls="navbarCollapse" class="navbar-toggler" data-target="#navbarCollapse" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button> <!-- Navbar hamburger menu div -->
+		<div class="collapse navbar-collapse" id="navbarCollapse">
+			<!-- Navbar menu list-->
+			<ul class="navbar-nav ml-auto mr-1">
+				<li class="ml-auto mr-1">
+					<a class="nav-link" href="#home">Home</a>
+				</li>
+				<li class="ml-auto mr-1">
+					<a class="nav-link" href="#monitor">Monitoraggio</a>
+				</li>
+				<li class="ml-auto mr-1">
+					<a class="nav-link" href="#whois">Info</a>
+				</li>
+			</ul><!-- Fine Navbar hamburger menu list -->
+		</div><!-- Navbar hamburger menu div -->
+	</nav><!-- Fine Navbar fissa-->
+
+
+	<!-- 1st section, Home-->
+	<!-- Inizio header -->
+	<header class="container-fluid">
+		<!-- Inizio sezione progetto arietta -->
+		<section>
+			<main role="main">
+				<h1 class="cursor-default">Progetto: Arietta</h1>
+			</main>
+		</section><!-- Fine sezione progetto arietta -->
+	</header><!-- Fine header -->
+
+
+	<!-- 2nd section, Monitoraggio -->
+	<!-- Inizio sezione monitoraggio -->
+	<section class="s-monitor rounded-top" id="monitor">
+		<!-- Container monitoraggio -->
+		<div class="container-fluid s-monitor">
+			<h2 class="text-uppercase cursor-default">Monitoraggio</h2>
+			<div class="row">
+				<!-- Lista in riga con i pulsanti con collegamento al modal -->
+				<div class="col-4-1 col-sm-4-1 col-md-4 col-lg-4 col-xl-4 py-2">
+					<a class="btn btn-outline-light" data-target="#temperatura" data-toggle="modal"><i class="far fa-eye mr-2"></i>Dati sulla temperatura</a>
+				</div>
+				<div class="col-4-1 col-sm-4-1 col-md-4 col-lg-4 col-xl-4 py-2">
+					<a class="btn btn-outline-light" data-target="#humidity" data-toggle="modal"><i class="far fa-eye mr-2"></i>Percentuale di umidità</a>
+				</div>
+				<div class="col-4-1 col-sm-4-1 col-md-4 col-lg-4 col-xl-4 py-2">
+					<a class="btn btn-outline-light" data-target="#sound" data-toggle="modal"><i class="far fa-eye mr-2"></i>Dati sul suono</a>
+				</div><!-- Fine della lista in riga con i pulsanti con collegamento al modal -->
+			</div>
+		</div><!--Fine container monitoraggio -->
+	</section><!--Fine sezione monitoraggio -->
+
+
+	<!-- 3rd section, Link e risorse utili:-->
+	<!--Inizio sezione link e risorse utili -->
+	<section class="s-resources rounded-bottom" id="whois">
+		<!-- Container link e risorse utili -->
+		<div class="container-fluid s-resources">
+			<h4 class="text-center cursor-default rounded">Link e risorse utilizzate</h4>
+			<ol>
+				<!-- Links e risorse utili -->
+				<li>
+					<a class="link" href="https://www.marconiverona.edu.it/">ITIS Guglielmo Marconi - Il nostro Istituto.</a>
+				</li>
+				<li>
+					<a class="link" href="https://apexcharts.com/">ApexCharts.js - Open Source JavaScript Charts for your website</a>
+				</li>
+				<li>
+					<a class="link" href="https://getbootstrap.com/docs/">Bootstrap 4 - front-end framework utilizzato nella realizzazione del sito.</a>
+				</li>
+				<li>
+					<a class="link" href="https://github.com/haoweydu/2020-5ai-team6-Du">GitHub - Repository contenente i materiali del progetto.</a>
+				</li>
+				<li>
+					<a class="link" href="https://www.w3schools.com/">W3schools - The world's largest web developer site.</a>
+				</li><!-- Fine links e risorse utili -->
+			</ol>
+		</div><!-- Fine container sezione link e risorse utili -->
+	</section><!-- Fine sezione monitoraggio -->
+
+
+	<!-- 4th section-->
+	<!-- Inizio sezione chi siamo -->
+	<section class="s-whois">
+		<!-- Inizio footer -->
+		<footer class="s-whois cursor-default">
+			<!-- Inizio testo chi siamo -->
+			<h3 class="text-center">Chi siamo?</h3>
+			<p class="text-center">Il progetto Arietta nasce per rilevare le condizioni relative al rumore e alla temperatura all'interno</p>
+			<p>dell'Istituto Tecnico Industriale Statale G. Marconi(VR). Progettato e sviluppato dagli alunni Andres Gilt e Robert Sansone della classe 5AI.</p><!-- Fine sezione chi siamo -->
+			<!-- Inizio copyright -->
+			<div class="container-fluid copyright rounded-top">
+				<small><b>2020 Robert Sansone & Gilt Andres, tutti i diritti riservati.</b></small>
+			</div><!-- Fine copyright -->
+		</footer><!-- Fine footer -->
+	</section><!-- Fine sezione -->
+	<!--Inizio modals -->
+	<div class="container-fluid">
+		<!-- Modal: Temperatura -->
+		<div class="modal" id="temperatura">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<!-- Modal header: Temperatura -->
+					<div class="modal-header">
+						<h4 class="modal-title">Dati sulla temperatura</h4><button class="btn close" data-dismiss="modal" type="button"><i class="fas fa-times-circle"></i></button>
+					</div><!-- Modal body: Temperatura -->
+					<div class="modal-body">
+						<!-- Grafico sulla temperatura -->
+						<div id="chart_t"></div>
+						<script type="text/javascript">     
+						var options = {
+						chart: {
+						    id: "chart_t",
+						    type: 'line',
+						    width: "100%",      
+						},
+						stroke: {
+						width: '3',
+						},
+						series: [],
+						title: {
+						text: 'Grafico: temperatura',
+						},
+						noData: {
+						text: 'Estraendo i dati..'
+						}
+						}
+
+						var chart_t = new ApexCharts(
+						document.querySelector("#chart_t"),
+						options
+
+						);
+
+
+						chart_t.render();
+
+						var url_t = 'http://localhost/arietta_1.0/temperatura.php';
+
+						$.getJSON(url_t, function(response_t) {
+						chart_t.updateSeries([{
+						name: 'Gradi',
+						data: response_t
+						}])
+						});
+						</script> <!-- Fine grafico sulla temperatura -->
+					</div><!-- Modal footer: Temperatura -->
+					<div class="modal-footer">
+						<small>Copyright  Robert Sansone & Gilt Andres 2020</small>
+					</div>
+				</div>
+			</div>
+		</div><!-- Modal: Humidity -->
+		<div class="modal" id="humidity">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<!-- Modal header: Humidity -->
+					<div class="modal-header">
+						<h4 class="modal-title">Percentuale di umidità</h4><button class="btn close" data-dismiss="modal" type="button"><i class="fas fa-times-circle"></i></button>
+					</div><!-- Modal body: Humidity -->
+					<div class="modal-body">
+						<!-- Grafico sull'umidità -->
+						<div id="chart_u"></div>
+						<script type="text/javascript">
+						var options = {
+						chart: {
+						    id: "chart_u",
+						    type: 'line',
+						    width: "100%",      
+						},
+						stroke: {
+						width: '3',
+						},
+						series: [],
+						title: {
+						text: 'Grafico: umidità',
+						},
+						noData: {
+						text: 'Estraendo i dati..'
+						}
+						}
+
+						var chart_u = new ApexCharts(
+						document.querySelector("#chart_u"),
+						options
+
+						);
+
+
+						chart_u.render();
+
+						var url_t = 'http://localhost/arietta_1.0/umidita.php';
+
+						$.getJSON(url_t, function(response_t) {
+						chart_u.updateSeries([{
+						name: '% Umidità',
+						data: response_t
+						}])
+						});
+						</script> <!-- Fine grafico sull'umidità -->
+					</div><!-- Modal footer: Humidity -->
+					<div class="modal-footer">
+						<small>Robert Sansone & Gilt Andres 2020</small>
+					</div>
+				</div>
+			</div>
+		</div><!-- Modal: Sound -->
+		<div class="modal" id="sound">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<!-- Modal header: Sound -->
+					<div class="modal-header">
+						<h4 class="modal-title">Monitoraggio del suono</h4><button class="btn close" data-dismiss="modal" type="button"><i class="fas fa-times-circle"></i></button>
+					</div><!-- Modal body: Sound -->
+					<div class="modal-body">
+						<!-- Fine grafico sul suono -->
+						<div id="chart_s"></div>
+						<script type="text/javascript">
+						var options = {
+						chart: {
+						    id: "chart_s",
+						    type: 'line',
+						    width: "100%",      
+						},
+						stroke: {
+						width: '3',
+						},
+						series: [],
+						title: {
+						text: 'Grafico: rumore',
+						},
+						noData: {
+						text: 'Estraendo i dati..'
+						}
+						}
+
+						var chart_s = new ApexCharts(
+						document.querySelector("#chart_s"),
+						options
+
+						);
+
+
+						chart_s.render();
+
+						var url_t = 'http://localhost/arietta_1.0/suono.php';
+
+						$.getJSON(url_t, function(response_t) {
+						chart_s.updateSeries([{
+						name: 'dB (Decibel)',
+						data: response_t
+						}])
+						});
+						</script> <!-- Fine grafico sul suono -->
+					</div><!-- Modal footer: Sound -->
+					<div class="modal-footer">
+						<small>Robert Sansone & Gilt Andres 2020</small>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js">
+		</script> <!-- Fine Body -->
+		 <!-- Fine HTML -->
+	</div>
+</body>
+</html>

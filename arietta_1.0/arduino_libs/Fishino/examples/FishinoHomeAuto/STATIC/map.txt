@@ -1,0 +1,16 @@
+{
+"l1"  : {"kind":"do", "io" :  "2", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" :  93, "y" : 367 },
+"l2"  : {"kind":"do", "io" :  "3", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 230, "y" : 374 },
+"l3"  : {"kind":"do", "io" :  "5", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 179, "y" : 469 },
+"l4"  : {"kind":"do", "io" :  "6", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 237, "y" : 504 },
+"l5"  : {"kind":"do", "io" :  "8", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 286, "y" : 224 },
+"l6"  : {"kind":"do", "io" :  "9", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 326, "y" : 353 },
+"l7"  : {"kind":"do", "io" : "15", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 348, "y" : 461 },
+
+"l8"  : {"kind":"do", "io" : "16", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 323, "y" : 183 },
+"l9"  : {"kind":"do", "io" : "17", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 428, "y" : 171 },
+"l10" : {"kind":"do", "io" : "18", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 428, "y" : 398 },
+"l11" : {"kind":"do", "io" : "19", "imageoff" : "lampoff.png", "imageon" : "lampon.png", "x" : 573, "y" : 403 },
+
+"t1"  : {"kind":"ai", "io" : "0", "image" : "termo.png", "x" : 520, "y" : 211, "scale" : 0.1, "delta" : -5, "prec" : 1, "textpref" : "", "textsuff" : "°C", "textx": 20, "texty" : 15 }
+}
