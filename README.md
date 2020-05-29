@@ -1,3 +1,3 @@
 # Group-6
-members: Du Haowei, Sansone Robert, Gilt Andres. The best of the worst
+members:Sansone Robert, Gilt Andres 5AI 2019-2020
 
